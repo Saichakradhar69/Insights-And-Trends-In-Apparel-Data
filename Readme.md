@@ -7,14 +7,14 @@ This project presents a comprehensive analysis of apparel data from the online s
 ## Dataset
 
 The dataset contains the following columns:
-- `Unique_id`: Unique identifier for each record
-- `Date`: Record date
-- `Name`: Apparel name
-- `Category`: Apparel category (e.g., T-Shirt, Formal Shirt, Jeans)
-- `Type`: Type of apparel (e.g., shirt, pants)
-- `Rating`: Online rating of the apparel
-- `Price`: Selling price of the apparel
-- `Production_Cost`: Cost for manufacturing the apparel
+- Unique_id: Unique identifier for each record
+- Date: Record date
+- Name: Apparel name
+- Category: Apparel category (e.g., T-Shirt, Formal Shirt, Jeans)
+- Type: Type of apparel (e.g., shirt, pants)
+- Rating: Online rating of the apparel
+- Price: Selling price of the apparel
+- Production_Cost: Cost for manufacturing the apparel
 
 ## Data Cleaning & Handling Missing Values
 
